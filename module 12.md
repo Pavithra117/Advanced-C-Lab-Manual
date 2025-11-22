@@ -168,8 +168,8 @@ void enqueue(float data)
 }
 ```
 Output:
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4c9eb059-64d6-49ca-bfa9-2c7965b49937" />
 
+<img width="681" height="559" alt="image" src="https://github.com/user-attachments/assets/a549619d-1348-4fdd-90f6-e3d72cb00fe2" />
 
 
 Result:
@@ -213,7 +213,8 @@ void peek()
 }
 ```
 Output:
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c756f996-13cc-490e-a4af-cc523b385783" />
+
+<img width="560" height="452" alt="image" src="https://github.com/user-attachments/assets/3de5b7f6-00b4-4011-b003-df12638e08c7" />
 
 
 
